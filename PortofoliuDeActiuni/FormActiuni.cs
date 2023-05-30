@@ -30,7 +30,7 @@ namespace PortofoliuDeActiuni
 
         List<Actiuni> listaActiuni=new List<Proiect.Actiuni>();
         List<Portofoliu> listaPortofolii=new List<Portofoliu>();
-        string connectionString = "Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=193.226.34.57)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oradb)));User Id=AROSOAEG_48;Password=stud;";
+        string connectionString = "Data Source=(DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=193.226.34.57)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=oradb)));User Id=;Password=;";
     
         public FormActiuni()
         {
